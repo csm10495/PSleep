@@ -1,0 +1,11 @@
+**/*.exe
+**/*.out
+**/*.gch
+**/*.user
+.vs
+/Debug*
+/Release*
+/x64*
+PSleep/Debug*
+PSleep/Release*
+PSleep/x64*
